@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MusicAppD.iml" filepath="$PROJECT_DIR$/MusicAppD.iml" />
-      <module fileurl="file://C:\Users\MOCHYRA\Desktop\MusicAppD\MusicAppD.iml" filepath="C:\Users\MOCHYRA\Desktop\MusicAppD\MusicAppD.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\MOCHYRA\Desktop\MusicAppD\app\app.iml" filepath="C:\Users\MOCHYRA\Desktop\MusicAppD\app\app.iml" />
     </modules>
   </component>
 </project>
